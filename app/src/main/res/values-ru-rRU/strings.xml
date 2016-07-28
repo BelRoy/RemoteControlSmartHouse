@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote Control SmartHouse</string>
+    <string name="action_settings">Настройки</string>
+    <string name="temp_in">Темп. внутри</string>
+    <string name="temp_out">Темп. снаружи</string>
+    <string name="window">Окно</string>
+    <string name="rain">Дождь</string>
+    <string name="move">Движение</string>
+    <string name="refresh">Обновить</string>
+    <string name="save">Сохранить</string>
+    <string name="alarm">Тревога</string>
+    <string name="e.g.">e.g.</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="open">Открито</string>
+    <string name="close">Закрито</string>
+    <string name="now">Сейчас</string>
+    <string name="light">Свет</string>
+</resources>

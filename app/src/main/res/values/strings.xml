@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Remote Control SmartHouse</string>
+    <string name="action_settings">Setting</string>
+    <string name="temp_in">Temp in</string>
+    <string name="temp_out">Temp out</string>
+    <string name="window">Window</string>
+    <string name="rain">Rain</string>
+    <string name="move">Move</string>
+    <string name="refresh">Refresh</string>
+    <string name="save">Save</string>
+    <string name="alarm">Alarm</string>
+    <string name="e.g.">e.g.</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="now">Now</string>
+    <string name="light">Light</string>
+
+</resources>
